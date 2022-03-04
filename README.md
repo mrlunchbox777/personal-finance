@@ -22,11 +22,23 @@ Many things in this guide are at odds with each other. That isn't to say that th
 
 ## Stay Alive
 
-Start using budget management software like [Mint](https://mint.intuit.com/) or [YNAB](https://www.youneedabudget.com/). For budgeting you give every dollar a job, take your income and portion it out the best that you can.
+Start using budget management software like [Mint](https://mint.intuit.com/) or [YNAB](https://www.youneedabudget.com/). When budgeting you give every dollar a job. Take your income and portion it out the best that you can.
 
-Pay the basics: rent, food, utilities, toiletries, things needed for work, health care, and minimum payments on everything already owed. This is first and foremost always, you have to pay to stay alive before doing anything else; you can choose cheaper housing, food, etc, but you still have to provide for those.
+Pay the basics:
 
-Budget, Reduce Expenses, Set Realistic Goals
+* Rent
+* Food
+* Utilities
+* Toiletries
+* Things needed for work (car maintenance, gas, internet, etc)
+* Health care
+* Minimum payments on everything already owed
+
+This is first and foremost always, you have to pay to stay alive before doing anything else; you can choose cheaper housing, food, etc, but you still have to provide for those.
+
+* **Budget**
+* **Reduce Expenses**
+* **Set Realistic Goals**
 
 ## Put 1k In The Bank
 
@@ -38,7 +50,7 @@ This emergency fund needs to be liquid: it should be checking or savings, **NOT*
 
 Use budget management software mentioned in [Stay Alive](#stay-alive)
 
-Don't try to make too drastic changes, changing lifestyle is hard, it's better to be realistic and stick to it than to set lofty goals that you won't be able to stick too.
+Don't try to make too drastic changes. Changing lifestyle is hard; it's better to be realistic and stick to it than to set lofty goals that are unattainable.
 
 ### Track It
 
@@ -46,31 +58,54 @@ You can't improve what you don't measure. To fix anything you have to keep track
 
 ## Employer Matching
 
-If your employer is matching any money (usually 401k, HSA, other benefits), then you be getting that first off. In most cases it's a 50-100% gain which is "better" than nearly any legal loan is "bad" -- **DON'T LEAVE MONEY ON THE TABLE**.
+If your employer is matching any money (usually 401k, HSA, other benefits), then you should invest whatever it takes to get that match. In most cases it's a 50-100% gain; in most cases think of it as a money doubler, you put $1 in and get $2 out, you'd want to put in as much as you can -- **DON'T LEAVE MONEY ON THE TABLE**.
 
 If your employer offers any kind of match on any financial product, you should PROBABLY take as much money as they offer.
 
 ## Debt Consolidation
 
-**PERSONAL NOTE:** As guideline you should only consolidate debt when it either: brings the payment into an amount you can reasonably pay per month, or reduces the rate of interest of the debt. The first condition is baseline, you need it, but you should cut everything else you can to make that; the second condition is what to consider when you are consolidating to payoff debt when not in tight straights. The exception to both of these is psychological payoff, picking something means nothing if you can't stick to it. [**THIS IS THE SNOWBALL vs AVALANCHE METHOD CHOICE**](https://www.reddit.com/r/personalfinance/wiki/debt#wiki_what.27s_the_best_way_to_pay_down_my_debt.3F).
+**PERSONAL NOTE:** As guideline you should only consolidate debt when it either:
 
-This choice is an optimization choice that involves three primary factors: what you can afford, interest rate, and personal psychology. You need to be able to afford your choice, you should pick as low of an interest rate as possible, and you need to maximize your psychological payoff for following your plan.
+* First brings the payment down to an amount you can reasonably pay per month
+* Second reduces the interest rate of the debt. 
+* Both should serve a **Psychological Payoff**
+
+The first condition is baseline, you need it. You should reduce spending everywhere else you can to make minimum payments on debts. After reducing spending you can consider consolidation. While it increases the total amount paid over the life of the loan, it can make payments more affordable. You should consider the second condition when you are consolidating debt to pay it off faster. The exception to both of these conditions is psychological payoff: picking something means nothing if you can't stick to it. [**THIS IS THE SNOWBALL vs AVALANCHE METHOD CHOICE**](https://www.reddit.com/r/personalfinance/wiki/debt#wiki_what.27s_the_best_way_to_pay_down_my_debt.3F).
+
+This choice is an optimization choice that involves three primary factors:
+
+* What you can afford
+* Interest rate
+* Personal psychology
+
+You need to be able to afford your choice. You should pick as low of an interest rate as possible. Finally, you need to maximize your psychological payoff for following your plan.
 
 ## Debt Payoff
 
-Paying off debt has a few strategies as mentioned in [debt consolidation](#debt-consolidation). Basically paying off small things vs large things, paying off high interest vs consolidation, and general prioritization in reference to utility to your life. These decisions are another optimization problem that only you can answer. However, once you decide what is important, there are optimal strategies for reaching that, e.g. snowball vs avalanche (or some combination).
+Paying off debt has a few strategies as mentioned in [debt consolidation](#debt-consolidation). Basically, this consists of:
+
+* Paying off small things vs large things
+* Paying off high interest vs consolidation
+* General prioritization in reference to utility to your life
+
+These decisions are another optimization problem that only you can answer. However, once you decide what is important, there are optimal strategies for reaching that, e.g. snowball vs avalanche (or some combination of both).
 
 ### High Interest vs Low Interest
 
-If it's high interest (>= 10%) debt you want to pay that off as soon as possible after employer matches.
+If it's high interest debt (>= 10%) you want to pay that off as soon as possible after employer matches on benefits.
 
-If it's low interest (<= 5%) debt you want to pay that off when it makes you happy, minimum payments make sense if you are working on maxing out your investments.
+If it's low interest debt (<= 5%) you want to pay that off when it has the most psychological payoff, i.e. makes you happy. Minimum payments on these debts make sense, if you are working on maxing out your investments.
 
-Medium interest (10% > x > 5%) is harder to determine what is the strategy and basically comes down to math. If you don't want to do the math, reduce risk and pay off debt.
+Medium interest debt (between 5% and 10%) is harder to determine a strategy for, and basically comes down to math. If you don't want to do the math, reduce risk by paying off the debt.
 
 ## Credit
 
-This topic is somewhat fluid but the basics are the same. I can't do better than [this wiki](https://www.reddit.com/r/personalfinance/wiki/credit_building). It really depends on if you have credit or not, and if you do if it's high or low. Super basic advice is [settle outstanding debt](https://www.reddit.com/r/personalfinance/wiki/credit_building#wiki_handling_your_collections_accounts), have accounts, keep usage low, and make on time payments.
+This topic is somewhat fluid but the basics are the same. I can't do better than [this wiki](https://www.reddit.com/r/personalfinance/wiki/credit_building). It really depends on if you have credit or not; and if you do, whether it's high or low. Basic advice is:
+
+* [Settle outstanding debt](https://www.reddit.com/r/personalfinance/wiki/credit_building#wiki_handling_your_collections_accounts)
+* Have accounts
+* Keep usage low
+* Make on time payments
 
 ## Retirement
 
@@ -78,4 +113,4 @@ This topic is somewhat fluid but the basics are the same. I can't do better than
 
 ## Investment
 
-This topic is somewhat fluid but the basics are the same. I can't do better than [this wiki](https://www.reddit.com/r/personalfinance/wiki/investing). Basically invest long term in low cost index funds (with somewhere like Vanguard). If you aren't a magician you can't beat the market; if you are one you are probably delusional; if you aren't delusional you don't need my advice. 
+This topic is somewhat fluid but the basics are the same. I can't do better than [this wiki](https://www.reddit.com/r/personalfinance/wiki/investing). Basically, invest long term in low cost index funds (with a company like [Vanguard](https://investor.vanguard.com/home)). If you aren't a magician you can't beat the market. If you are one you are probably delusional. If you aren't delusional you don't need my advice. 
