@@ -34,7 +34,7 @@ Pay the basics:
 * Health care
 * Minimum payments on existing debts
 
-First and foremost always, you have to pay to stay alive; you can choose cheaper housing, food, etc, but you still have to provide for those.
+First and foremost, you have to pay to stay alive. You can choose cheaper housing, food, etc, but you still have to account for those first.
 
 * **Budget**
 * **Reduce Expenses**
@@ -42,29 +42,29 @@ First and foremost always, you have to pay to stay alive; you can choose cheaper
 
 ## Put 1k In The Bank
 
-This is the start of your [emergency fund](https://www.reddit.com/r/personalfinance/wiki/emergencyfunds) and should come right after paying your bills that keep you alive.
+This $1000 goal is the start of your [emergency fund](https://www.reddit.com/r/personalfinance/wiki/emergencyfunds) and should be prioritized after paying the bills that keep you alive. This doesn't have to be immediate, but should be as soon as you can reasonably afford it.
 
-This emergency fund needs to be liquid: it should be checking or savings, **NOT** CDs, ETFs, 401k, etc.
+This emergency fund needs to be liquid: it should be checking or savings, **NOT** CDs, ETFs, 401k, NFTs, etc.
 
 ## Core Focus
 
-Use budget management software mentioned in [Stay Alive](#stay-alive)
+Use budget management software mentioned in [Stay Alive](#stay-alive).
 
-Don't try to make too drastic changes. Changing lifestyle is hard; it's better to be realistic and stick to it than to set lofty goals that are unattainable.
+Don't try to make too drastic of changes. Changing lifestyle is hard; it's better to be realistic and stick to it, than to set lofty goals that are unattainable.
 
 ### Track It
 
-You can't improve what you don't measure. To fix anything you have to keep track of it. For your first budget don't limit, just measure. Just see where you are at now. You will find things you want to fix, but as said before be reasonable about them. You aren't going to cut everything out day one, and even when you reach your ideal state you won't have cut everything (nor would you want to have).
+You can't improve what you don't measure. To fix anything, you have to keep track of it. For your first budget don't limit, just measure. Just see where you are at now. You will find things you want to fix, but as said before be reasonable about them.
 
 ## Employer Matching
 
-If your employer is matching any money (usually 401k, HSA, other benefits), then you should invest whatever it takes to get that match. In most cases it's a 50-100% gain; in most cases think of it as a money doubler, you put $1 in and get $2 out, you'd want to put in as much as you can -- **DON'T LEAVE MONEY ON THE TABLE**.
+If your employer is matching any money (usually a 401k, HSA, or other benefits), then you should invest whatever it takes to get that match. In most cases it's a 50%-100% gain; think of it as a money doubler. You put $1 in and get $2 out, you'd want to put in as much as you can -- **DON'T LEAVE MONEY ON THE TABLE**.
 
 If your employer offers any kind of match on any financial product, you should PROBABLY take as much money as they offer.
 
 ## Debt Consolidation
 
-**PERSONAL NOTE:** As guideline you should only consolidate debt when it either:
+**PERSONAL NOTE:** As a guideline you should only consolidate debt when it either:
 
 * First brings the payment down to an amount you can reasonably pay per month
 * Second reduces the interest rate of the debt. 
