@@ -16,9 +16,9 @@ Check the [license](/LICENSE).
 
 ## Note on Realism
 
-Depending on your job you may make it through to different portions of this plan. That's perfectly fine, and just push it as far as you can. When doing that though, be reasonable; you can't get to the ideal state in a day. Start working through what you can one day at a time, and improve as best you can day by day.
+Depending on your job you may make it through to different portions of this plan. That's perfectly fine, and attempt to get through as much as you can. When doing that, be reasonable; you can't get to the ideal state instantly. Start working through what you can one day at a time, and improve as best you can little by little.
 
-Many things in this guide are at odds with each other. That isn't to say that they are contradictory, but they are competing interests, e.g. good vs fast vs cheap (pick 2). There are several optimization problems here and only you (or a fiduciary) can really make that decision.
+Many things in this guide are at odds with each other. That isn't to say that they are contradictory, but they are competing interests, e.g. good vs fast vs cheap, pick 2 of those options. There are several optimization problems here and only you (or a fiduciary) can really make those decisions.
 
 ## Stay Alive
 
@@ -32,9 +32,9 @@ Pay the basics:
 * Toiletries
 * Things needed for work (car maintenance, gas, internet, etc)
 * Health care
-* Minimum payments on everything already owed
+* Minimum payments on existing debts
 
-This is first and foremost always, you have to pay to stay alive before doing anything else; you can choose cheaper housing, food, etc, but you still have to provide for those.
+First and foremost always, you have to pay to stay alive; you can choose cheaper housing, food, etc, but you still have to provide for those.
 
 * **Budget**
 * **Reduce Expenses**
