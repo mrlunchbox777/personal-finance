@@ -68,4 +68,14 @@ If it's low interest (<= 5%) debt you want to pay that off when it makes you hap
 
 Medium interest (10% > x > 5%) is harder to determine what is the strategy and basically comes down to math. If you don't want to do the math, reduce risk and pay off debt.
 
-## test
+## Credit
+
+This topic is somewhat fluid but the basics are the same. I can't do better than [this wiki](https://www.reddit.com/r/personalfinance/wiki/credit_building). It really depends on if you have credit or not, and if you do if it's high or low. Super basic advice is [settle outstanding debt](https://www.reddit.com/r/personalfinance/wiki/credit_building#wiki_handling_your_collections_accounts), have accounts, keep usage low, and make on time payments.
+
+## Retirement
+
+This topic is somewhat fluid but the basics are the same. I can't do better than [this wiki](https://www.reddit.com/r/personalfinance/wiki/index#wiki_retirement_accounts). It follows the same basic tenants of [investment](#investment), but with the added bonus of tax benefits. You should max out your retirement before considering investment without very good reasons to do it the other way around.
+
+## Investment
+
+This topic is somewhat fluid but the basics are the same. I can't do better than [this wiki](https://www.reddit.com/r/personalfinance/wiki/investing). Basically invest long term in low cost index funds (with somewhere like Vanguard). If you aren't a magician you can't beat the market; if you are one you are probably delusional; if you aren't delusional you don't need my advice. 
